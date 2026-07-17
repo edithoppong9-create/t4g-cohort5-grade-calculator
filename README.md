@@ -9,16 +9,13 @@ The program can calculate grades for multiple students in one run.
 
 Features
 
- Accepts a student's name
- Accepts scores for multiple subjects
- Calculates the average score
- Assigns a letter grade (A–F)
- Displays a performance message
- Processes multiple students in one run
+ Accepts a student's name , Accepts scores for multiple subjects ,Calculates the average score, Assigns a letter grade (A–F), Displays a performance message , Processes multiple students in one run
+
+
 
 Built By
 Bernice
-Edith Oppong
+and Edith 
 
  
 
