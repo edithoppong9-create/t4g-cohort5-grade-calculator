@@ -1,9 +1,6 @@
 # Grade Calculator
 # Built by Bernice and Edith
 # This program calculates students' average scores and assigns grades.
-# Grade Calculator
-# Built by Edith Oppong
-# This program calculates students' average scores and assigns grades.
 
 
 def get_scores():
