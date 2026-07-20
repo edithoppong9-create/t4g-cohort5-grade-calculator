@@ -21,5 +21,6 @@ and Edith
 
 """
 
-
+Developed a complete student grade calculator system that allows users to enter student score, calculates total marks and averages, determines grade based on performance, and provides feedback on student results.
+ 
 
